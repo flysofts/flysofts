@@ -3,15 +3,17 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=100&section=header&" />
   
-### 안녕하세요! 신입 프론트엔드 개발자 박지환입니다. 👋
+#### 안녕하세요! 신입 프론트엔드 개발자 박지환입니다 👋
+
 #### 
+
 </div>
   
 <div align="center">
   
 ## 스킬 💡
 
-#### 자주 사용하는 기술
+###### 자주 사용하는 기술입니다.
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,12 +26,14 @@
 <br>
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-#### 사용해본 경험있는 기술
+
+###### 사용해본 경험이 있는 기술입니다.
 
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-#### 툴 
+
+###### 보조 도구
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
